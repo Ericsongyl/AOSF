@@ -481,6 +481,10 @@ Material Design风格的日历、时间选择器。
 
 [Calligraphy](https://github.com/chrisjenx/Calligraphy)
 
+## 56.KV数据存储框架
+
+[MMKV](https://github.com/Tencent/MMKV)
+
 
 
 <u>**这是整理的Android优秀开源框架的第一篇章，后续会继续整理，大家有其他好的框架推荐，请留言。如果你觉的这篇文章对你有帮助，欢迎收藏并转发给身边的朋友，谢谢。**</u>
