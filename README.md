@@ -119,6 +119,8 @@ glide和picasso的对比：
 
 [ViewPagerIndicator2](https://github.com/LuckyJayce/ViewPagerIndicator)
 
+[MagicIndicator](https://github.com/hackware1993/MagicIndicator)
+
 ## 17.进度条
 
 [ProgressWheel](https://github.com/Todd-Davies/ProgressWheel)
