@@ -1,6 +1,6 @@
 # Android常用优秀开源框架
 ## 前言
-AOSF：全称为Android Open Source Framework，即Android优秀开源框架汇总。包含：网络请求okhttp，图片下载glide，数据库greenDAO，链式框架RxJava，组件路由ARouter，消息传递通信EventBus，热更新Tinker，插件化框架Replugin，文件下载FileDownloaer，图片选择PhotoPicker，图片滤镜/毛玻璃等特效处理，GIF图片展示控件，图片九宫格控件NineGridView，对话框Dialog，导航指示器ViewpagerIndicator，进度条ProgressWheel，下拉刷新SmartRefreshLayout等，应有尽有。
+AOSF：全称为Android Open Source Framework，即Android优秀开源框架汇总。包含：网络请求okhttp，图片下载glide，数据库greenDAO，链式框架RxJava，组件路由ARouter，消息传递通信EventBus，热更新Tinker，插件化框架Replugin，文件下载FileDownloaer，图片选择PhotoPicker，图片滤镜/毛玻璃等特效处理，GIF图片展示控件，图片九宫格控件NineGridView，对话框Dialog，导航指示器ViewpagerIndicator，进度条ProgressWheel，下拉刷新SmartRefreshLayout，数据库调试等，应有尽有。
 
 <u>**说明：大家有好的开源框架，热烈欢迎大家提Issue或Pull requests进行补充和完善，我们一起把优秀的框架汇集起来，为自己和他人的开发提供便利，提高效率，避免重复造轮子或耗费查找时间，谢谢🙏**</u>
 
@@ -487,7 +487,11 @@ Material Design风格的日历、时间选择器。
 
 [MMKV](https://github.com/Tencent/MMKV)
 
+## 57.数据库调试
+
+[Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
 
 
-<u>**这是整理的Android优秀开源框架的第一篇章，后续会继续整理，大家有其他好的框架推荐，请留言。如果你觉的这篇文章对你有帮助，欢迎收藏并转发给身边的朋友，谢谢。**</u>
+
+<u>**这是整理的Android优秀开源框架，后续会继续整理，大家有其他好的框架推荐，请留言。如果你觉的这篇文章对你有帮助，欢迎收藏并转发给身边的朋友，谢谢。**</u>
 
