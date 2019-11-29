@@ -351,6 +351,10 @@ Material Design风格的、支持区间选取的SeekBar。
 
 一套强大的Dialog集合，提供了类似BottomSheet的效果。
 
+[BottomDialog](https://github.com/Vove7/BottomDialog)
+
+高度自定义的底部对话框，使用BottomSheet，支持滚动布局，同时底部布局不会因BottomSheet未显示全部内容而隐藏。
+
 ## 42.日历、时间选择控件
 
 [BottomSheetPickers](https://github.com/philliphsu/BottomSheetPickers)
